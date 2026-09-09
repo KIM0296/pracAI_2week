@@ -1,4 +1,4 @@
-pracAI
+#pracAI
 
 this repository is for my practice for class 
 
